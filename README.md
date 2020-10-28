@@ -15,3 +15,10 @@ Team:
 ![image](https://github.com/eastlong/competition_diantou_2018/blob/master/pictures/detail_2.png)     
 ## 排名  
 ![image](https://github.com/eastlong/competition_diantou_2018/blob/master/pictures/rank.PNG) 
+
+
+from sklearn.model_selection import cross_val_score
+pip install xgboost
+No module named 'lightgbm'
+
+"No such keys(s): 'display.height'"
